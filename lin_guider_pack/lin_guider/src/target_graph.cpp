@@ -22,7 +22,7 @@
 
 #include <stdlib.h>
 
-#include <QtGui>
+#include <QtWidgets>
 #include <QWidget>
 
 #include "drift_graph.h"
